@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a dummy repo for the "Data Science Toolbox" assignment
+This is a dummy repo for the "Data Scientist Toolbox" assignment
